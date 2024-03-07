@@ -13,3 +13,5 @@ class Product extends Component {
 ```
 
 **class-based components cannot use React Hooks**
+
+class-based components could mix with functional components childs.
